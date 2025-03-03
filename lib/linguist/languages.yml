@@ -83,6 +83,20 @@ ABNF:
   - ".abnf"
   tm_scope: source.abnf
   language_id: 429
+Aether:
+  type: programming
+  color: "#9672D6"
+  extensions:
+  - ".ae"
+  - ".aether"
+  ace_mode: lua
+  tm_scope: source.lua
+  language_id: 9326
+  group: Programming
+  aliases:
+  - aetherlang
+  - Ae
+
 AGS Script:
   type: programming
   color: "#B9D9FF"
